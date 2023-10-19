@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I am Wong Jia Xuan, currrently studying Bachelor of Computing (Software Engineering) at Universiti Teknologi Malaysia (UTM).
 <!--
 **wongjiaxuan/wongjiaxuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
