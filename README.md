@@ -1,17 +1,13 @@
 ### Hi there 👋
 
-I am Wong Jia Xuan, currrently studying Bachelor of Computing (Software Engineering) at Universiti Teknologi Malaysia (UTM).
-<!--
-**wongjiaxuan/wongjiaxuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Wong Jia Xuan</h1>
+<h3 align="center">A passionate frontend developer from Malaysia</h3>
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **Bachelor of Computing (Software Engineering) at Universiti Teknologi Malaysia (UTM).**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me **wongjia.xuan@graduate.utm.my**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
