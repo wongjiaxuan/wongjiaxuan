@@ -7,6 +7,5 @@
 
 - 📫 How to reach me **wongjia.xuan@graduate.utm.my**
 
-<p align="left">
-</p>
+<p align="left"></p>
 
