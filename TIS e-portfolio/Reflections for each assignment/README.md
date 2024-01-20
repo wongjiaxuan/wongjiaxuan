@@ -22,12 +22,24 @@ In conclusion, this industrial talk was not only just an information-sharing ses
 
 <h3 align="left"> Assignment 3 (Video on Visit to UTM Digital and the Attended Virtual Talk)📹🎤</h3>
 
-Being a UTM student, I got an unique opportunity to explore the main digital and ICT provider for UTM through a visit to UTMDigital. The virtual talk organised by UTM Digital complemented with physical visit, offering insights from UTM Digital pioneers. The visit to UTMDigital was a sensory delight, immersing me in an environment where fulfilled with cutting-edge technologies seamlessly coexist with creative ideation. The presentations delved into duty of UTM Digital and also technologies used for technological innovation and progress.
+Being a UTM student, I got an unique opportunity to explore the main digital and ICT provider for UTM through a visit to UTMDigital. The virtual talk organised by UTM Digital complemented with physical visit, offering insights from UTM Digital pioneers. The visit to UTMDigital was a sensory delight, immersing me in an environment where fulfiled with cutting-edge technologies seamlessly coexist with creative ideation. The presentations delved into duty of UTM Digital and also technologies used for technological innovation and progress.
 
 One of the most striking aspects of my experience at UTM Digital is the seamless collaboration among various departments. The interdisciplinary nature of work not only caught my attention but also left a lasting impression on how innovation thrives in environment where diverse skill set converge. This interdisplinary approach serves as a catalyst for innovation. Witnessing professionals from various fields collaborate and strive harder on projects highlighted the synergies that emerge when diverse talents unite toward a common goal. 
 
 Services presented by UTM Digital have ease my university life while I am using the educational technology tools, platforms and resources which are undoubtedly user-friendly to enhance my learning experience in UTM. 
 
+
 <h3 align="left"> Assignment 4 (Report on Industrial Talk)🗣️📝</h3>
+
+Attending the Industrial Talk hosted by Credence, a subsidiary of TM, was an enlightening experience for me to delve into the intricate world of databases and the role of technology that will shape the future. The talk not only highlighted the significance of database management, but also shed light on the broader technological trends which will shape in the certain sector. 
+
+The speaker, Ms Qistina Azman evidently experts in the field, illuminated meticulous process of data organization, transformation and visualization underscores the commitment in turning raw data into actionable insights. Apart of that, Credence's strategic choice of tools for system development reflects a commitment to accuracy, efficiency and innovation. The harmonious collaboration of the technologies and tools signifies holistic approach to fulfil the diverse technological needs.
+
+Qistina's determination and transformation journey as a data engineer encapsulates the company's ethos of resilience and seamless innovation. Challenges served as catalyst for growth, shaping her superior competence. Her journey really inspired me. I determined to strive harder to become a successful software engineer in future.
+
+
 <h3 align="left"> PC Assemble (Lab)🔧💻 </h3>
+
+Participating in PC Assemble was an immersive dive into practical realm of computer hardware, transforming theoretical concepts into tangible skills. The step-by-step process of assembling components, from mounting the motherboard to connecting power cables, allowed me to visualise the intricate architecture within a computer. Each component's role and significance became tangible as I physically engaged them with my teammates. The lab showcased the importance of precision and attention to detail. Each connection, each component placement has a direct impact on the system's functionality. This on-hand activity ingrained in me the significance of thoroughness in the assembly process and the potential consequences of overlooking even minor details will cause failure of turning on PC.
+
 <h3 align="left"> Design Thinking 👥💡</h3>
