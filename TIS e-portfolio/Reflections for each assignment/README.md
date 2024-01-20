@@ -10,6 +10,7 @@ One of the most inspired aspect was the unique opportunities to interact with th
 
 In my opinion, UTM NALI is a technological wonderland, where every idea echoing in the hall unveiled a new marvel. This experience has not only enriched my understanding, but also fueled my enthusiasm to delve deeper in technology.
 
+
 <h3 align="left"> Assignment 2 (Poster on Industrial Talk)🏭📰</h3>
 
 The industrial talk presented by Clarity Techworks Sdn. Bhd. was truly eye-opening experience, providing me a glimpse into forefront of innovation. The speakers, each a beacon of knowledge, shared invaluable insights into future of tech-driven trends. Their expertise and engaging discussions not only broaden my horizon but also highlighted the profound impact technology is poised to make across diverse industries.  
@@ -18,9 +19,14 @@ The discourse on transformative power of ICT set the stage for a deeper explorat
 
 In conclusion, this industrial talk was not only just an information-sharing session. It gave me astonishing inspiration related to technological innovation with a clear vision. The combination of interesting discussion and innovative product, Rapidz Pay has left me eagerly anticipating the transformative journey in realm of ICT.
 
-<h3 align="left"> Assignment 3 (Video on Visit to UTMDigital and the Attended Virtual Talk)📹🎤</h3>
 
-As a UTM student, 
+<h3 align="left"> Assignment 3 (Video on Visit to UTM Digital and the Attended Virtual Talk)📹🎤</h3>
+
+Being a UTM student, I got an unique opportunity to explore the main digital and ICT provider for UTM through a visit to UTMDigital. The virtual talk organised by UTM Digital complemented with physical visit, offering insights from UTM Digital pioneers. The visit to UTMDigital was a sensory delight, immersing me in an environment where fulfilled with cutting-edge technologies seamlessly coexist with creative ideation. The presentations delved into duty of UTM Digital and also technologies used for technological innovation and progress.
+
+One of the most striking aspects of my experience at UTM Digital is the seamless collaboration among various departments. The interdisciplinary nature of work not only caught my attention but also left a lasting impression on how innovation thrives in environment where diverse skill set converge. This interdisplinary approach serves as a catalyst for innovation. Witnessing professionals from various fields collaborate and strive harder on projects highlighted the synergies that emerge when diverse talents unite toward a common goal. 
+
+Services presented by UTM Digital have ease my university life while I am using the educational technology tools, platforms and resources which are undoubtedly user-friendly to enhance my learning experience in UTM. 
 
 <h3 align="left"> Assignment 4 (Report on Industrial Talk)🗣️📝</h3>
 <h3 align="left"> PC Assemble (Lab)🔧💻 </h3>
