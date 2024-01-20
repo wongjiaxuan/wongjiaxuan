@@ -11,7 +11,17 @@ One of the most inspired aspect was the unique opportunities to interact with th
 In my opinion, UTM NALI is a technological wonderland, where every idea echoing in the hall unveiled a new marvel. This experience has not only enriched my understanding, but also fueled my enthusiasm to delve deeper in technology.
 
 <h3 align="left"> Assignment 2 (Poster on Industrial Talk)🏭📰</h3>
+
+The industrial talk presented by Clarity Techworks Sdn. Bhd. was truly eye-opening experience, providing me a glimpse into forefront of innovation. The speakers, each a beacon of knowledge, shared invaluable insights into future of tech-driven trends. Their expertise and engaging discussions not only broaden my horizon but also highlighted the profound impact technology is poised to make across diverse industries.  
+
+The discourse on transformative power of ICT set the stage for a deeper exploration of Clarity Techworks' flagship product, Rapidz Pay which can facilitate effortless cryptocurrency transactions, allowing users to make payments and transfer digital assets. This product acts as a bridge between traditional finance and the rapidly evolving world of cryptocurrencies. 
+
+In conclusion, this industrial talk was not only just an information-sharing session. It gave me astonishing inspiration related to technological innovation with a clear vision. The combination of interesting discussion and innovative product, Rapidz Pay has left me eagerly anticipating the transformative journey in realm of ICT.
+
 <h3 align="left"> Assignment 3 (Video on Visit to UTMDigital and the Attended Virtual Talk)📹🎤</h3>
+
+As a UTM student, 
+
 <h3 align="left"> Assignment 4 (Report on Industrial Talk)🗣️📝</h3>
 <h3 align="left"> PC Assemble (Lab)🔧💻 </h3>
 <h3 align="left"> Design Thinking 👥💡</h3>
