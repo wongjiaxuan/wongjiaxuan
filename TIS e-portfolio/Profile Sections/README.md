@@ -23,7 +23,7 @@
 
 🏆**Certificate**:
 - Malaysian Certificate of Education (SPM) with 5A+, 5A and 1B+ in 2022.
-- Sijil Matrikulasi KPM in 2023.
+- Sijil Matrikulasi KPM with 4.0 in 2023.
 
 🌟**Honors And Awards:**
 - While I am currently a new student and haven't received any formal honors and awards, I am driven by passion to engage in studying programming nowadayds. I am committed to achieve excellence result in my academic journey in future.
