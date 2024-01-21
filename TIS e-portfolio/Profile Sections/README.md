@@ -7,15 +7,15 @@
 
 <h3 align="left">I am currently learning C++. My enthusiasm thrives in navigating the dynamic realm of code and delving into intricacies of software development. I am eager to cultivate my skills in order to crafting elegant solutions while tackling real-world challenges.</h3>
 
-📚**Education:**
+📚 **Education:**
 - University : Universiti Teknologi Malaysia (UTM) from 2023.
 - Pre-University : Life Science in Kolej Matrikulasi Negeri Sembilan (KMNS) from 2022 to 2023.
 - Secondary School : Science Stream in SMK Mutiara Rini from 2017 to 2022.
 
-🏫**Position:**
+🏫 **Position:**
 - I am a student, actively exploring world of programming.
 
-💻**Skills:**
+💻 **Skills:**
 - I manage to use C++ to develop efficient solutions for the tasks given. 
 
 🌱**Course:**
