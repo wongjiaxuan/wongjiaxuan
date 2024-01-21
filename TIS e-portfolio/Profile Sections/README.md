@@ -30,4 +30,4 @@
 
 📂 **Projects:**
 - Technology and Information System e-Portfolio
-  [TIS e-portfolio](https://github.com/wongjiaxuan/wongjiaxuan/tree/64ae0f769d12f4daae1a4a83d7d806fc6c692d74/TIS%20e-portfolio)
+  [TIS e-portfolio](https://github.com/wongjiaxuan/wongjiaxuan/tree/main/TIS%20e-portfolio)
